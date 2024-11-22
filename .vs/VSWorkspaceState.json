@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessApp",
+    "\\BusinessApp\\src",
+    "\\BusinessApp\\src\\app",
+    "\\BusinessApp\\src\\app\\business-card",
+    "\\BusinessApp\\src\\app\\edit-interest",
+    "\\BusinessApp\\src\\app\\manage-interests"
+  ],
+  "SelectedNode": "\\BusinessApp\\src\\app\\edit-interest\\edit-interest.component.ts",
+  "PreviewInSolutionExplorer": false
+}

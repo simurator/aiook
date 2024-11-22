@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\edit-interest\\edit-interest.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\app\\edit-interest\\edit-interest.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\manage-interests\\manage-interests.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\app\\manage-interests\\manage-interests.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\interest.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\app\\interest.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\date-pl.pipe.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\app\\date-pl.pipe.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\date-pl.pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\app\\date-pl.pipe.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\numbers.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\app\\numbers.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\letters-validator.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\app\\letters-validator.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\business-card\\business-card.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\app\\business-card\\business-card.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\edit-interest\\edit-interest.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\app\\edit-interest\\edit-interest.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\show-date\\show-date.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessApp\\src\\app\\show-date\\show-date.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "interest.service.ts",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\interest.service.ts",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\app\\interest.service.ts",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\interest.service.ts",
+              "RelativeToolTip": "BusinessApp\\src\\app\\interest.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-22T17:28:41.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "numbers.service.ts",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\numbers.service.ts",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\app\\numbers.service.ts",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\numbers.service.ts",
+              "RelativeToolTip": "BusinessApp\\src\\app\\numbers.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-22T17:28:29.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\app\\app.config.ts",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\app.config.ts",
+              "RelativeToolTip": "BusinessApp\\src\\app\\app.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-22T17:28:24.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "date-pl.pipe.ts",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\date-pl.pipe.ts",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\app\\date-pl.pipe.ts",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\date-pl.pipe.ts",
+              "RelativeToolTip": "BusinessApp\\src\\app\\date-pl.pipe.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-22T17:28:20.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "date-pl.pipe.spec.ts",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\date-pl.pipe.spec.ts",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\app\\date-pl.pipe.spec.ts",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\date-pl.pipe.spec.ts",
+              "RelativeToolTip": "BusinessApp\\src\\app\\date-pl.pipe.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-22T17:28:18.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "manage-interests.component.ts",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\manage-interests\\manage-interests.component.ts",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\app\\manage-interests\\manage-interests.component.ts",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\manage-interests\\manage-interests.component.ts",
+              "RelativeToolTip": "BusinessApp\\src\\app\\manage-interests\\manage-interests.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-22T17:18:51.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "edit-interest.component.ts",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\edit-interest\\edit-interest.component.ts",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\app\\edit-interest\\edit-interest.component.ts",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\edit-interest\\edit-interest.component.ts",
+              "RelativeToolTip": "BusinessApp\\src\\app\\edit-interest\\edit-interest.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-22T17:11:31.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "letters-validator.ts",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\letters-validator.ts",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\app\\letters-validator.ts",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\letters-validator.ts",
+              "RelativeToolTip": "BusinessApp\\src\\app\\letters-validator.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-22T17:28:07.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "business-card.component.ts",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\business-card\\business-card.component.ts",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\app\\business-card\\business-card.component.ts",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\business-card\\business-card.component.ts",
+              "RelativeToolTip": "BusinessApp\\src\\app\\business-card\\business-card.component.ts",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-22T17:27:49.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "edit-interest.component.html",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\edit-interest\\edit-interest.component.html",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\app\\edit-interest\\edit-interest.component.html",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\edit-interest\\edit-interest.component.html",
+              "RelativeToolTip": "BusinessApp\\src\\app\\edit-interest\\edit-interest.component.html",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-22T17:22:36.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\app.component.ts",
+              "RelativeToolTip": "BusinessApp\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-22T17:11:21.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\index.html",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\index.html",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\index.html",
+              "RelativeToolTip": "BusinessApp\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-22T17:19:13.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "show-date.component.ts",
+              "DocumentMoniker": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\show-date\\show-date.component.ts",
+              "RelativeDocumentMoniker": "BusinessApp\\src\\app\\show-date\\show-date.component.ts",
+              "ToolTip": "C:\\Users\\\u0141iS\\source\\repos\\BusinessCardAngularApp-forms\\BusinessApp\\src\\app\\show-date\\show-date.component.ts",
+              "RelativeToolTip": "BusinessApp\\src\\app\\show-date\\show-date.component.ts",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-22T17:18:56.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
